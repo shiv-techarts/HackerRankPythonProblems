@@ -1,0 +1,8 @@
+# Folders to exclude
+
+.vscode
+
+# Files to exclude
+
+Pipfile
+Pipfile.lock
